@@ -1,0 +1,16 @@
+2024-06-13 14:11:18.753 ERROR c.k.k.core.main.WSVerificationExecutor   - ? Verification FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object
+
+2024-06-13 14:46:37.770 ERROR c.k.k.core.main.WSVerificationExecutor   - ? Verification FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ObjRep/Page_nduat Archives - Nduat/div_Website'
+
+
+2024-06-13 14:53:46.015 ERROR c.k.k.core.main.WSVerificationExecutor   - ? Verification FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Scheme Archives - Nduat/html_window.top.postMessage(msg_typeresize-me,key_valuekeyr_nh,value0,keyr_ifr,valuetrue,keyqid,valueCLPIir6g2IYDFQ-
+
+2024-06-13 14:59:46.959 ERROR c.k.k.core.main.WSVerificationExecutor   - ? Verification FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_About Us - Nduat/a_Privacy Policy'
